@@ -50,7 +50,6 @@ The Power BI dashboard visualizes the dataset using multiple KPI cards, charts, 
 ---
 
 ## 📸 Dashboard Preview
-> Upload your dashboard screenshot as `dashboard.png` in the repo root, then the image below will render.  
 
 ![Blinkit Dashboard](dashboard.jpg)
 
