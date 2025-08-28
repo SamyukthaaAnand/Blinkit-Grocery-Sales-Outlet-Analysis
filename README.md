@@ -1,4 +1,4 @@
-# 🛒 Blinkit Grocery Sales Outlet Analysis
+# 🛒 Blinkit Grocery Sales & Outlet Analysis
 
 ## 📌 Project Overview
 This project analyzes **Blinkit Grocery Sales** data to uncover patterns in customer preferences, product demand, and outlet performance.  
